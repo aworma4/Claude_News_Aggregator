@@ -1,0 +1,1644 @@
+ARticle 1
+Gateway reference: 16030
+TO:
+SHA CEs, PCT CEs, LA CEs
+CC:
+HPA CE, PCT and NHS Trust CEs, NHS Trust Medical
+Directors, CQC CE, PCT DPHs, GPs, PCT Medical Directors,
+PCT lead nurses, Directors of Housing and Planning, Directors
+of Adult Social Services, Directors of Children Social Services,
+Professional Bodies (RCGP, RCP, RPSGB, RCN, CPHVA,
+Community and District Nurses Association), Care
+Associations (National Care Association, ECCA, Registered
+Nursing Homes Association, UK Care Home Care Association
+and Carers UK), NHS Foundation Trusts CEs, Monitor, DCLG
+Resilience and Emergencies Division, Cabinet Office Civil
+Contingencies Secretariat
+ Richmond House
+79 Whitehall
+London
+SW1A 2NS
+020 7210 3000
+chiefmedicalofficer@dh.gsi.gov.uk
+David.Nicholson@dh.gsi.gov.uk
+Christine.Beasley@dh.gsi.gov.uk
+David.Behan@dh.gsi.gov.uk
+26 May 2011
+Dear Colleague
+HEATWAVE PLAN
+The Heatwave Plan for England, first published in 2004, is to be reissued on 26 May 2011 to
+raise both public and professional awareness. Following the launch, a copy of the Plan, the
+accompanying factsheets for staff and care home managers and a public information leaflet
+will be available on the DH website at: www.dh.gov.uk/publications.
+The Plan’s purpose is to enhance resilience in the event of a heatwave. It is an important
+component of overall emergency planning and will become increasingly relevant in adapting
+to the impact of climate change.
+Summary of key changes to the National Heatwave Plan 2011
+There are only a few changes to this year’s Heatwave Plan, to reflect changes to some
+structures and organisations since 2010.
+• Information has been changed to reflect the closure of the Regional Government Offices
+as at 31st March 2011 and other changes to some structures and organisations since
+2010.
+1
+2
+• There are some detailed changes to Box 7 on page 30 of the Heatwave Plan as to the
+wider benefits of Green Spaces.
+• As in previous years, information leaflets both for the public and professionals have been
+made available to be downloaded from the DH website. The information content and
+advice given in these leaflets remains the same as for 2010. Last year however, we
+printed copies of the public information leaflet, “Looking After Yourself and Others During
+Hot Weather” and sent these, without request, to a range of NHS and other institutions.
+Additional leaflets were available on request from either professionals or the public. For
+2011, we believe that as the Plan is now mature, it is reasonable to offer electronic
+access as the norm and make access to the leaflets ‘on request’ for both professionals
+and the public. Our dissemination and communication strategy, including this letter, will
+seek to ensure that Heatwave Plan is widely communicated using a variety of channels to
+ensure maximum publicity to health and social care professionals as well as the general
+public, and to publicise the availability of the hardcopy leaflets for those who want them.
+The Plan sets out the arrangements that will apply, and the actions required, in advance of,
+and during, a heatwave. A summary of key amendments and weblinks to materials will be
+advertised via emergency planning routes and professional bulletins. However, you and copy
+recipients of this letter are asked to discuss the Plan, and the factsheets that form part of it,
+with those organisations and teams that need to start taking action now.
+Strategic Health Authorities and Local Authorities need to ensure:
+• PCTs and social services departments support primary and social care teams in:
+- familiarising themselves with the Plan, and their roles in implementing it; and
+- identifying individuals at particular risk, and taking steps as set out in the Plan to
+reduce it - this will involve collaboration with the voluntary sector and the
+Independent Care Home sector.
+• Independent Care Homes and Hospitals are made aware of the Plan, of the specific risks
+associated with residents of care homes, and of the specific advice directed at Care
+Home Managers and Staff.
+• NHS Trusts, including Mental Health Trusts, have assessed their ability to maintain their
+temperatures below 260
+C in order to reduce risk to vulnerable groups. In the French 2003
+heatwave, 2,000 of the 15,000 deaths were among those already in hospital at its start.
+• Local Authority Housing and Planning teams, and providers of social housing, take
+account of long-term measures to reduce the impact of heatwaves, especially in urban
+areas where temperatures become hotter. This includes increasing external and internal
+shading, the use of reflective paints, and using trees and green spaces to aide urban
+cooling.
+• All local emergency plans and procedures incorporate this Plan where relevant, and those
+involved in their implementation, including Local Resilience Fora, are made familiar with it.
+Yours sincerely,
+
+DAME SALLY C DAVIES DAVID NICHOLSON
+Chief Medical Officer NHS Chief Executive
+CHRIS BEASLEY DAVID BEHAN
+Chief Nursing Officer Director General for Social Care,
+ Local Government and
+ Care Partnerships
+
+
+
+ARticle 2
+
+Guidance
+Climate change explained
+Climate change is happening and is due to human activities; along
+with warming, many other changes are occurring such as melting
+polar ice, rising sea levels and more frequent floods, droughts and
+heatwaves.
+From:
+Department for Energy Security and Net Zero (/government/organisations/departmentfor-energy-security-and-net-zero)
+Published
+23 October 2014
+Last updated
+20 June 2023 —
+Evidence that the climate is changing
+It is unequivocal that human influence has warmed the atmosphere, ocean, and land.
+Measurements of the average temperature at the Earth’s surface show it has risen by about
+1.1°C since the pre-industrial period. Each of the last 3 decades have been hotter than the
+previous one and the 7 warmest years on record have occurred between 2015 and 2021.
+This change in temperature hasn’t been the same everywhere. It has increased more over
+land than over the oceans and has been more than twice as fast in the Arctic.
+The United Kingdom (UK) is experiencing rising temperatures. The most recent decade
+(2012 to 2021) has been on average 1.0°C warmer than the 1961 to 1990 average. All 10 of
+GOV.UK
+Home Climate change adaptation
+Contents
+— Evidence that the climate is changing
+— Causes of climate change
+— Impacts of climate change
+— The role of the Intergovernmental Panel on Climate Change (IPCC)
+— Tackling climate change
+— References
+the warmest years in the UK have occurred since 2003. 2022 was the UK’s hottest year on
+record, with an average year-round temperature above 10°C seen for the first time.
+While the climate is warming, temperatures aren’t expected to rise every single year. Natural
+fluctuations will still cause unusually cold years and seasons, but these events will become
+less likely.
+Along with warming at the Earth’s surface, many other changes in the climate are occurring,
+such as:
+warming oceans
+melting polar ice and glaciers
+rising sea levels
+more extreme weather events
+Warming oceans
+It’s not only the temperature at the Earth’s surface that is rising. The temperature of the
+oceans has been increasing too. This warming has been seen all the way down to 2 km
+beneath the surface.
+The chemistry of the oceans is also changing. They have absorbed about one third of the
+total carbon dioxide emissions since 1980. This is causing the acidity of the oceans to
+increase 10 times faster than at any point in the last 65 million years.
+Melting polar ice and glaciers
+Over the past few decades, the ice sheets (the great masses of land ice at the poles) in
+Greenland and the Antarctic have shrunk. Glaciers have shrunk too, losing over 6000 gigatonnes of ice over the last 30 years. Arctic Sea ice has decreased in area since the 1970s,
+by about 40% in September and about 10% in March. There is no significant trend in
+Antarctic Sea ice, likely due to other regional effects.
+Rising sea levels
+Melting land ice and the expansion of water in warming oceans have caused sea levels to
+rise. Global sea level has risen by around 20 cm over the past century, likely faster than at
+any point in the last 3,000 years. The rate of sea level rise increased over the 20th century
+and sea levels will rise further this century. The extent to which they rise will depend on
+future amounts of greenhouse gas emissions.
+More extreme weather events
+More damaging extreme weather events are being seen around the world. Heatwaves,
+heavy rainfall events and droughts are occurring more often, and they are more severe. We
+expect these trends to continue as greenhouse gases emissions and global temperature
+continue to rise.
+Causes of climate change
+Rising levels of carbon dioxide and other greenhouse gases (such as methane) in the
+atmosphere enhance the ‘greenhouse effect’. More of the Sun’s energy is trapped, causing
+the Earth to warm. Heating of the ocean accounts for over 90% of the trapped energy.
+Scientists have known about this greenhouse effect since the 19th century.
+The more greenhouse gases there are in the atmosphere, the warmer the Earth becomes.
+While the plants and the oceans absorb about half of the carbon dioxide from human
+activities, the rest goes into the atmosphere. Recent warming is being driven by:
+burning fossil fuels for energy
+changes in land use and deforestation which reduces the numbers of trees available to
+absorb carbon dioxide
+agricultural production which releases greenhouse gasses from energy use, from the
+number of livestock and the amount of fertiliser applied to land
+manufacture of cement, chemicals and metals, which releases greenhouse gases into the
+atmosphere
+Natural influences on the climate, such as changes in the strength of the sun, or volcanic
+eruptions, can affect global temperature. But they have not contributed significantly to recent
+warming.
+Past climate change
+Ancient ice from the polar ice sheets is used to understand how temperatures have changed
+over hundreds of thousands of years. In addition, air bubbles trapped in the ice show that
+higher levels of greenhouse gases in the atmosphere correlate with warmer global
+temperatures.
+Ice cores also show that greenhouse gases have rapidly increased over the last 350 years
+to levels not seen for at least 800,000 years. Meanwhile, records from ocean sediments
+show that current levels of carbon dioxide are higher than they have been for at least 2
+million years.
+Natural fluctuations in climate
+Over the last million years or so, the Earth’s climate has had a natural cycle of cold glacial
+and warm inter-glacial periods. This cycle is mostly caused by gradual changes in the
+Earth’s orbit over many thousands of years. These changes affect the amount of energy that
+reaches the Earth. But they can be amplified by changes in greenhouse gases from natural
+causes, such as volcanic eruptions.
+We know that climate change has always occurred. But greenhouse gases produced by
+human activity are altering this cycle beyond this natural variation.
+Complex computer models show a clear human ‘fingerprint’ on recent global warming. The
+latest Synthesis Report from the Intergovernmental Panel on Climate Change (IPCC) states
+that it is unequivocal that human activities, principally through emissions of greenhouse
+gases, have warmed the atmosphere, ocean and land, and that widespread and rapid
+changes to the climate have occurred.
+Climate models and future global warming
+Looking at changes that have already happened on Earth can tell us a lot about the future
+effects of climate change. But we can learn much more using mathematical models of the
+climate.
+Supercomputers (such as those at the Met Office) solve complex mathematical equations
+based on well-established physical laws to model the behaviour of the weather and climate.
+These models cannot provide very specific forecasts of what the weather will be on a given
+day more than a few days in the future. But they can predict large-scale changes in global
+climate in the future.
+Climate models can also show us the effects of changing our global greenhouse gas
+emissions. For example, if we reduce emissions to net zero around or after 2050, followed
+by negative carbon dioxide emissions, we could see average global temperatures limited to
+1.5°C warmer than the pre-industrial period by the end of this century.
+But if greenhouse gas emissions continue to increase, the average global temperature could
+become 4.4°C warmer over the same period. Because these are global averages, the
+temperature in regions such as the Arctic will likely be even higher.
+For more information, see the Met Office What is climate change
+(https://www.metoffice.gov.uk/weather/climate-change/what-is-climate-change) page.
+Impacts of climate change
+We can already see the effects of climate change. They are projected to become more
+severe and widespread as greenhouse gas emissions and global temperatures continue to
+rise. How big these impacts are depends on the degree to which we reduce greenhouse gas
+emissions, and on our ability to adapt to these changes.
+Some of the effects of changes to our climate include:
+risk to water supplies
+localised flooding and flooding in coastal regions
+damage to marine ecosystems and associated failure of fisheries
+loss of biodiversity
+heat stress, affecting human health and habitability
+increased risk of wildfires
+food insecurity as conditions for growing crops change and habitable region of pests
+expands
+Developed countries produce most greenhouse gas emissions. But we expect developing
+countries to experience some of the most severe effects of climate change. With fewer
+resources to adapt to these changes, the impact on people in developing countries is likely
+to be higher.
+For more details, see the Met Office Effects of climate change
+(https://www.metoffice.gov.uk/weather/climate-change/effects-of-climate-change) page.
+The effects of climate change on the UK
+The UK’s climate is changing already. As greenhouse gas emissions continue to rise,
+climate models project that we will see:
+warmer and wetter winters
+hotter and drier summers
+more frequent and intense weather extremes
+The UK’s weather will continue to be variable, and we will still experience much of the
+weather we do today. But it is likely that we will see more of the weather listed above.
+If greenhouse gas emissions continue to increase, then by 2070, UK winters are forecast to
+be between 0.6 and 3.8°C warmer and between 3 to 39% wetter, depending on the region,
+compared to our climate in 1990. This is because warmer air can hold more water. We will
+likely experience heavier rains and more rain could fall during winter storms.
+Similarly, by 2070, UK summers are projected to be between 1.3 and 5.1°C warmer,
+depending on the region. Higher summer temperatures will likely cause more severe
+heatwaves. This will be a risk to public health, particularly vulnerable people.
+In July 2022, UK temperatures exceeded 40°C for the first time on record. Temperatures
+remained above 20°C overnight and the highest daily minimum record was also broken. The
+chance of the UK seeing 40°C days could be 10 times more likely in the current climate than
+in the past. By 2070, regions in the south could have average hottest days reaching 40°C.
+Warmer, drier summers are likely to increase the risk of wildfires in the UK, as seen in the
+summer of 2022.
+Climate change will also affect summer rainfall events in the UK. Flash flooding events are
+more likely, especially in urban areas. By 2070, the UK is forecast to experience flash floods
+twice as often as it did in 1990. Increased flooding will negatively affect the environment,
+infrastructure, transport and water systems.
+Please see the advice on staying safe and well:
+in hot weather (https://www.metoffice.gov.uk/weather/warnings-and-advice/seasonaladvice/health-wellbeing/hot-weather-and-its-impacts)
+in floods (https://www.metoffice.gov.uk/weather/warnings-and-advice/seasonal-advice/yourhome/what-to-do-in-a-flood)
+The role of the Intergovernmental Panel on Climate Change (IPCC)
+The Intergovernmental Panel on Climate Change (IPCC) is a scientific body of the United
+Nations. It was created in 1988 by the World Meteorological Organization (WMO) and the
+United Nations Environment Programme (UNEP). It is the UN body for assessing the
+science of climate change. The IPCC provides policy makers with regular scientific
+assessments on climate change, its implications, and potential future risks. It also provides
+options for adaptation and mitigation. These reports are relevant to policy, but they are
+politically neutral and not prescriptive.
+IPCC Assessment Reports are released on a roughly 7-year cycle. During the sixth
+assessment cycle, the IPCC published 3 flagship Working Group (WG) reports:
+Working Group I: The Physical Science Basis of Climate Change
+(https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
+Working Group II: Climate Change Impacts, Adaptation and Vulnerability
+(https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/)
+Working Group III: Mitigation of Climate Change (https://www.ipcc.ch/report/sixth-assessmentreport-working-group-3/)
+as well as 3 Special Reports and a Methodology Report:
+Global Warming of 1.5°C (https://www.ipcc.ch/sr15/) (2018)
+Climate Change and Land (https://www.ipcc.ch/srccl/) (2019)
+the Oceans and Cryosphere (https://www.ipcc.ch/srocc/) in a Changing Climate (SROCC;
+2019)
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+(https://www.ipcc-nggip.iges.or.jp/public/2019rf/index.html) (2019)
+The Sixth assessment cycle concluded with a synthesis of all the reports of the cycle,
+published on 20 March 2023.
+Synthesis Report (https://www.ipcc.ch/report/ar6/syr/)
+The IPCC report preparation and approval process
+The UK government fully supports the work of the IPCC. It regards the IPCC’s assessments
+as the most authoritative view on the science of climate change. IPCC reports undergo an
+unparalleled, rigorous and transparent international preparation and peer-review process by
+scientific experts and governments before they are published. The governments of the
+IPCC’s 195 member countries, which includes the UK, are involved in all major steps. This
+includes agreeing the scope of a report, nomination of experts as authors, reviewing the
+reports, and their final approval.
+IPCC assessments are highly influential. They informed the creation of the United Nations
+Framework Convention on Climate Change (UNFCCC), and the subsequent Kyoto Protocol.
+They drove the Paris Agreement’s goal to limit temperature rises to well below 2°C and
+pursue efforts to limit the increase to 1.5°C, as well as underpinning the Glasgow Climate
+Pact agreed at COP26. The 2018 IPCC Special Report on Global Warming of 1.5°C was a
+major influence on the UK’s net zero 2050 target and led to net zero targets being set
+around the world.
+Tackling climate change
+In 2015, the 196 parties of the UNFCCC adopted the Paris Agreement. Its overarching goal
+is to hold “the increase in the global average temperature to well below 2°C above preindustrial levels and to pursue efforts to limit the temperature increase to 1.5°C above preindustrial levels, recognising that this would significantly reduce the risks and impacts of
+climate change”. Limiting global warming to 1.5°C or 2°C requires reduced global carbon
+dioxide emissions to at least net zero by the 2050s and 2070s, respectively. Deep and
+sustained reductions in the emissions of all other greenhouse gases are also required.
+There are many benefits to limiting global warming, with each fraction of a degree making a
+substantial difference. The severity of the impacts of climate change increases with
+temperature and many changes are irreversible for centuries to millennia. Reducing
+greenhouse gas emissions will always reduce risk, regardless of specific temperature goals.
+To minimise the negative effects of climate change, actions to mitigate and adapt need to be
+taken in this decade. Mitigation and adaptation action can provide other benefits. For
+example, reduced methane emissions will limit near-term warming and improve air quality.
+The benefits of such actions will be felt globally, such as improving agricultural productivity,
+increasing innovation, better health, and wellbeing, increasing food security, and reducing
+biodiversity loss.
+References
+Published 23 October 2014
+Last updated 20 June 2023 + show all updates
+Related content
+IPCC Fifth assessment report: Working Group 3 report on mitigation of climate change
+(/government/publications/ipcc-fifth-assessment-report-working-group-3-report-on-mitigation-ofclimate-change)
+IPCC Fifth Assessment Report: Working Group 2 report on impacts, adaptation and
+vulnerability (/government/publications/ipcc-fifth-assessment-report-working-group-2-report-onimpacts-adaptation-and-vulnerability)
+Climate change (/guidance/climate-change)
+IPCC Fifth Assessment Report: Synthesis Report (/government/publications/ipcc-5thassessment-report-synthesis-report)
+IPCC Fifth Report: Working Group 1 The Physical Science Basis of Climate Change
+(/government/publications/ipcc-report-key-points-and-questions)
+Explore the topic
+Climate change adaptation (/environment/climate-change-adaptation)
+Climate change international action (/environment/climate-change-international-action)
+Energy and climate change: evidence and analysis (/environment/energy-and-climatechange-evidence-and-analysis)
+Greenhouse gas emissions (/environment/greenhouse-gas-emissions)
+All c
+o
+n
+t
+e
+n
+t is
+a
+v
+aila
+ble
+u
+n
+d
+e
+r
+t
+h
+e
+O
+p
+e
+n
+G
+o
+v
+e
+r
+n
+m
+e
+n
+t
+Lic
+e
+n
+c
+e
+v
+3.0, except where otherwise stated
+©
+C
+r
+o
+w
+n
+c
+o
+p
+y
+rig
+h
+t
+
+
+Article 3
+
+Skip to main content
+ GOV.UK
+ Navigation menu 
+Menu Search GOV.UK 
+HomePassports, travel and living abroadTravel abroadForeign travel advice
+Foreign travel advice
+Greece
+Printable version
+
+Print this page
+Warnings and insurance
+Still current at:
+27 July 2023
+Updated:
+25 July 2023
+Latest update:
+Information on wildfires across Greece, including in populated areas on the mainland and a number of islands ('Warnings and insurance' and 'Safety and security' pages).
+The Foreign, Commonwealth & Development Office (FCDO) provides advice about risks of travel to help British nationals make informed decisions. Find out more about FCDO travel advice.
+
+Heatwave and wildfires in Europe
+Extreme temperatures are affecting many areas of Greece. There are active wildfires across Greece, including in populated areas on the mainland and a number of islands.
+
+Wildfires are highly dangerous and unpredictable. The situation can change quickly. Follow “112 Greece” on Twitter for official updates.
+
+Read the NHS advice on coping in hot weather.
+
+If you are travelling to an area affected by wildfires
+If you are due to travel to an area that might be affected by wildfires, contact your travel operator or accommodation provider before you travel to check that it is not currently impacted. Make sure you have appropriate insurance.
+
+If you are in or near areas affected by wildfires
+Be cautious if you are in or near an area affected by wildfires. You should:
+
+follow the guidance of the emergency services
+
+call the Greek Emergency Services on 112 if you are in immediate danger
+
+contact your airline or travel operator who can assist you with return travel to the UK.
+
+enable the “Emergency Alerts” option to receive the Greek government’s emergency alerts. For:
+
+iPhones go to Settings > Notification. Enable the “Emergency Alerts” option at the bottom.
+Android 11 and higher go to Settings > Notifications > Advanced Settings > Wireless Emergency Alerts
+Samsung Devices go to Settings > Apps > Messages > Notifications > Emergency Notifications. Enable the “Emergency Alerts” option
+read the Greek Government’s protection guidelines in the event of a forest fire.
+
+register via the Greek government’s Emergency Communication Service (in Greek)
+
+The Greek government has set up a Crisis Management Unit to facilitate the evacuation of foreign visitors from Rhodes due to the ongoing forest fires. Contact them for advice on:
+
++30 210 368 1730
++30 210 368 1259
++30 210 368 1350
+If you need consular assistance
+If you are a British national and need consular assistance, call our 24-hour helpline on +44 20 7008 5000
+
+Before you travel
+No travel can be guaranteed safe. Read all the advice in this guide as well as support for British nationals abroad which includes:
+
+advice on preparing for travel abroad and reducing risks
+information for women, LGBT+ and disabled travellers
+Follow and contact FCDO travel on Twitter, Facebook and Instagram. You can also sign up to get email notifications when this advice is updated.
+
+Travel insurance
+If you choose to travel, research your destinations and get appropriate travel insurance. Insurance should cover your itinerary, planned activities and expenses in an emergency.
+
+Entry requirements
+This advice reflects the UK government’s understanding of current rules for people travelling on a full ‘British citizen’ passport from the UK, for the most common types of travel.
+
+The authorities in Greece set and enforce entry rules. If you’re not sure how these requirements apply to you, contact Greece’s embassy or consulate in the UK.
+
+COVID-19 rules
+Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.
+
+If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.
+
+Visit TravelHealthPro (from the UK’s National Travel Health Network and Centre) for general COVID-19 advice for travellers.
+
+Travel to Greece
+Follow any instructions given on arrival at immigration or airport testing facilities. Check the Ministry of Tourism website for more information.
+
+Passport validity requirements
+If you are planning to travel to an EU country (except Ireland), or Switzerland, Norway, Iceland, Liechtenstein, Andorra, Monaco, San Marino or Vatican City, you must follow the Schengen area passport requirements.
+
+Your passport must be:
+
+issued less than 10 years before the date you enter the country (check the ‘date of issue’)
+valid for at least 3 months after the day you plan to leave (check the ‘expiry date’)
+You must check your passport meets these requirements before you travel. If your passport was issued before 1 October 2018, extra months may have been added to its expiry date.
+
+Contact the embassy of the country you are visiting if you think that your passport does not meet both these requirements. Renew your passport if you need to.
+
+Visa requirements
+You can travel to countries in the Schengen area for up to 90 days in any 180-day period without a visa. This applies if you travel:
+
+as a tourist
+to visit family or friends
+to attend business meetings, cultural or sports events
+for short-term studies or training
+If you are travelling to Greece and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.
+
+For a longer stay (to work or study, for business or for other reasons) you will need to meet the Greek government’s entry requirements. Check with the Greek Embassy before you make arrangements to travel about what type of visa and work permit, if any, you may need.
+
+If you are travelling to Greece for work, read the guidance on visas and permits.
+
+The entry requirements for touring creatives have recently changed, more details of the new rules can be found on the Greek Embassy website. If you stay in Greece with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.
+
+Passport stamping
+Check your passport is stamped if you enter or exit the Schengen area through Greece as a visitor. Border guards will use passport stamps to check you’re complying with the 90-day visa-free limit for short stays in the Schengen area. If relevant entry or exit stamps are not in your passport, border guards will presume that you have overstayed your visa-free limit.
+
+You can show evidence of when and where you entered or exited the Schengen area, and ask the border guards to add this date and location in your passport. Examples of acceptable evidence include boarding passes and tickets.
+
+You may also need to:
+
+show a return or onward ticket
+show you have enough money for your stay
+If you are resident in Greece, read our Living in Greece guide for passport stamping information.
+
+Vaccination requirements (other than COVID-19)
+At least 8 weeks before your trip, check the vaccinations and vaccination certificates you may need on TravelHealthPro.
+
+Customs rules
+There are strict rules about goods that can be brought into and taken out of Greece. You must declare anything that may be prohibited or subject to tax or duty.
+
+Taking food and drink into the EU
+You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food required for medical reasons. Check the rules about taking food and drink into the EU on the European Commission website.
+
+Safety and security
+Terrorism
+There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.
+
+UK Counter Terrorism Policing has information and advice on staying safe abroad and what to do in the event of a terrorist attack. Find out how to reduce your risk from terrorism while abroad.
+
+Terrorism in Greece
+Terrorists are likely to try to carry out attacks in Greece.
+
+Attacks could be indiscriminate, including in places frequented by foreigners.
+
+There have been several attacks involving explosives and automatic weapons against Greek institutions, shopping malls, banks, media offices, diplomatic premises and the police.
+
+British nationals aren’t normally considered a specific target, but attacks could happen in places visited by foreigners.
+
+Strikes and demonstrations
+There are regular strikes, sometimes called at short notice that can cause disruption to public transport (including air travel and ports), as well as road networks and borders. Political demonstrations can also occur frequently.
+
+Avoid demonstrations wherever possible and follow the advice of the local authorities. Some demonstrations in the past have turned violent. If you do find yourself unexpectedly near a demonstration, move away to the last known safe place. Security forces often use tear gas to break up demonstrations, which can harm your breathing and vision.
+
+Demonstrations take place regularly around major squares in central Athens, in particular Syntagma Square. Nationwide strikes and protests can occur at any time and may disrupt road, air, sea travel and cause delays or diversions at border crossings.
+
+Demonstrations may happen at short notice, and have traditionally happened on 1 May, 17 November and 6 December.
+
+Crime
+Theft
+Theft of passports, wallets and handbags are common on the metro and in crowded tourist places, particularly in central Athens. Don’t carry all your valuables in one place, and remember to keep a photocopy or scanned copy of your passport somewhere safe. Maintain the same level of personal security awareness as in the UK.
+
+When driving on holiday, keep your valuables out of sight and lock your vehicle at all times. Always park in a well-lit area or secure car park. Be alert to car crime.
+
+Sexual assault
+Sexual assaults and personal attacks may occur in Greece. This includes attacks on foreign visitors in tourist areas and cities.
+
+We recommend that all travellers follow this advice:
+
+save the location of your accommodation on your maps app, so it’s easier to find at the end of the night
+set up a WhatsApp group to keep in touch with others in your group
+keep an eye on each other’s drinks to make sure they don’t get spiked
+don’t let a friend walk back to their hotel alone
+don’t give a drunk person more alcohol
+You should immediately report anything you see that doesn’t feel right to local authorities or hospitality management.
+
+Laws and cultural differences
+Personal ID
+Carry a copy of your passport or other photographic ID which confirms British nationality at all times, this is a legal requirement.
+
+Race
+The majority of visitors experience no difficulties related to race, but there have been some racially motivated attacks, particularly in inner-city areas.
+
+Public offences
+The Greek police won’t accept behaviour they find rowdy or indecent, especially where excessive drinking is involved, this behaviour may be illegal. The police will make arrests and the courts are likely to give heavy fines or prison sentences if you behave indecently.
+
+Some fancy dress costumes may be regarded as offensive and therefore against decency laws. Your travel insurance may not cover you after drinking.
+
+Smoking
+It’s illegal to smoke in all indoor public places. The penalty for violating this law is a fine of up to 500 euros.
+
+Drugs
+Possession of even small quantities of illegal drugs can lead to a long prison sentence.
+
+Alcohol, drugs and use of nitrous oxide can make you less alert, less in control and less aware of your environment.
+
+Nitrous oxide is illegal to buy or sell for recreational use in Greece. You can be arrested or fined if found in possession.
+
+Public transport
+It’s sometimes necessary to time stamp or validate your ticket on public transport for it to be valid. Check with local providers.
+
+Buying goods or services
+Make sure you get a receipt for any goods or services you buy.
+
+Offensive items like pepper spray, knuckledusters or knives with a blade length of 10cm or above are listed as weapons in Greece and fall under the current weapon possession law. You need to have a special licence from the local police authority to carry any weapon otherwise you might face arrest and legal charges. You need to have a special licence to carry any knife that is not made for domestic, professional, artistic or hunting use.
+
+LGBT+ travellers
+Same-sex sexual relations are legal in Greece and civil unions between same-sex couples have been legal since 2015. The age of consent in Greece is 15, this applies to partners of both the same sex and opposite sex. Transgender people are able to change their legal gender. Anti-discrimination and hate speech laws apply to gender identity.
+
+Public attitudes towards same-sex sexual activity vary throughout the country; showing affection in public by same-sex couples may be frowned upon, especially in rural areas.
+
+Attitudes are generally much more welcoming in Athens and on many Greek islands, particularly on Lesvos, Mykonos and Skiathos. See our information and advice page for the LGBT+ community before you travel.
+
+Military service
+Men, aged 19 and above, born to a Greek national parent may have military service obligations, regardless of any other nationality they hold. Authorities can prevent you leaving Greece until you complete military service obligations.
+
+Using cameras or approaching sensitive locations
+It is illegal to approach or take photos or videos of military installations, vehicles or buildings at any time. The Greek authorities will arrest and possibly prosecute anyone doing so. Certain border areas are also militarily sensitive. Although you can visit these areas, you should avoid taking photos or video footage.
+
+Outdoor activities and adventure tourism
+Music festivals
+Be aware of local laws and customs, and take extra care of your valuables if attending a festival or large concert. Read our festivals in Europe travel checklist for more advice.
+
+Water sports and swimming safety
+If you are considering taking part in water sports activities, do so through a licensed water sports centre and make sure paperwork is completed before starting the activity. Check the Safe Water Sports website for more information.
+
+However inviting the blue waters may be, make sure you follow any warning signs, adhere to instructions from lifeguards and observe the flag indicators on beaches. Follow local advice if jellyfish or urchins are present.
+
+Quad biking and mopeds
+Quad biking is considered an extreme sport and carries the risk of serious injury or death. Specific travel insurance to cover quad bike rental is essential. Always take care to read the details of your insurance cover before you travel on holiday, paying particular attention to the small print and exclusions on your insurance policy.
+
+If you do rent a quad bike, choose a category in accordance with your driving licence and age. Drivers and passengers must wear helmets. Failure to do so may invalidate your insurance and if stopped you will be fined and your licence taken from you. If you intend to hire a moped you will need a valid driving licence with at least category A1 - ‘light motorcycle’. Category P, which is valid in the UK for driving mopeds up to 50cc, is not valid in Greece.
+
+Transport risks
+Road travel
+If you are planning to drive in Greece, see information on driving abroad and read the RAC guide.
+
+Make sure any vehicle you hire is in good condition and check that you’re insured. When renting mopeds or quad bikes, insurance sold by the hire company usually only provides third party insurance, which only covers the cost of damage to another vehicle. Any damage sustained to the rental vehicle in many cases may need to be paid for by you, or you may face arrest if you do not pay and the hire company decide to press charges.
+
+Traffic can be busy, fast and chaotic, especially in the larger cities. Take care when crossing roads. Pedestrians should cross roads using a crossing. Drivers don’t always stop, even though they are required to. The green pedestrian crossing signal sometimes also allows cars to turn right onto the crossing, so cross with caution.
+
+Driving any vehicle while over the legal drinking limit can result in a heavy fine or imprisonment.
+
+Licences and permits
+You can drive in Greece with a UK driving licence.
+
+Driving a British car abroad
+You may need a UK sticker to drive your car outside the UK. Check the GOV.UK displaying number plates website for more information on what to do if you are driving outside the UK.
+
+Extreme weather and natural disasters
+Extreme weather
+Forest fires
+There are active wildfires affecting parts of Greece. See the Warning and Insurance page for further information about the current situation.
+
+Wildfires are highly dangerous and unpredictable. The situation can change quickly.
+
+You should:
+
+take care when visiting or driving through woodland areas
+make sure cigarette ends are properly extinguished
+not light barbecues
+Causing a forest fire is treated as a criminal offence in Greece even if unintentional. If you see a forest fire, call the emergency services on 112.
+
+Forest fires can also cause travel disruption in wider areas.
+
+For further information on the risk of forest fires, visit the Civil Protection website.
+
+Earthquakes
+Greece can experience earthquakes and earth tremors. You should:
+
+familiarise yourself with safety procedures in the event of an earthquake
+follow advice given by the local authorities
+The Greek General Secretariat for Civil Protection website has advice about what to do before, during and after an earthquake, and reports on incidents.
+
+Health
+Before you travel check that:
+
+your destination can provide the healthcare you may need
+you have appropriate travel insurance for local treatment or unexpected medical evacuation
+This is particularly important if you have a health condition or are pregnant.
+
+Emergency medical number
+Dial 112 or 166 and ask for an ambulance.
+
+Contact your insurance or medical assistance company promptly if you’re referred to a medical facility for treatment.
+
+For more information read guidance on healthcare when travelling in Europe.
+
+Vaccinations and health risks
+At least 8 weeks before your trip check:
+
+the latest information on health risks and what vaccinations you need for Greece on TravelHealthPro (from the UK’s National Travel Health Network and Centre)
+where to get vaccines and whether you have to pay on the NHS travel vaccinations page
+Medication
+The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
+
+TravelHealthPro explains best practice when travelling with medicines.
+
+The NHS has information on whether you can take your medicine abroad.
+
+While pharmacies across the country stock a good supply of medicines, you should make sure you have sufficient medical supplies (including prescription medicines) for the duration of your stay and any unforeseen delays, adequate travel insurance and accessible funds to cover the cost of any medical treatment and repatriation.
+
+Prescription medicine for uninsured individuals are only dispensed from pharmacies at hospitals or those pharmacies registered with the National Organisations for the Provision of Health Services (EOPYY).
+
+Travelling into Greece with medication
+Medication can be brought into Greece if you hold a letter from your doctor stating the quantity required during your stay as well as a copy of your prescription. Ensure that medication is packed in the original container with the full prescription printed on the container, the name on the prescription must match the name on your passport.
+
+If you need to take controlled medicines in Greece, contact the dispensing agency via email.
+
+For more information, contact the Greek National Organization of Medicines:
+
+By telephone: 0030 213 2040 395 / 285 / 225 / 000
+
+By email: clearance@eof.gr / relation@eof.gr
+
+Healthcare facilities in Greece
+Treatment and facilities are generally good on the mainland, but may be limited on the islands. The standards of nursing and after care, particularly in the public health sector is not to the standard expected in the UK. The public ambulance service is basic. There are serious shortages of ambulances on some islands.
+
+If you are uninsured, you may not be able to get medical treatment or diagnostic tests from private doctors in Greece, only from public hospitals and primary healthcare centres.
+
+You can view a list of English speaking doctors in Greece.
+
+COVID-19 healthcare in Greece
+Wearing a mask
+It is mandatory to wear a mask in all healthcare and social care facilities (e.g. hospitals, clinics, health centres and care homes).
+
+Health insurance cards
+Apply for a free UK Global Health Insurance Card (GHIC) or European Health Insurance Card (EHIC) before leaving the UK. If you already have an EHIC, it will still be valid as long as it remains in date.
+
+The GHIC or EHIC entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Greek nationals. If you do not have your EHIC with you or you’ve lost it, contact the NHS Overseas Healthcare Team.
+
+It’s important to take out appropriate travel insurance for your needs. A GHIC or EHIC is not an alternative to travel insurance and you should have both before you travel. An EHIC or GHIC does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about what your travel insurance should cover.
+
+EHIC and GHIC cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.
+
+Travel and mental health
+Read FCDO guidance on travel and mental health. There is also guidance on TravelHealthPro.
+
+Getting help
+The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.
+
+Emergency services in Greece
+Telephone: 112 (ambulance, fire, police)
+
+Calling 999 from a UK mobile in Greece will automatically transfer you to the Greek emergency services.
+
+Contact your travel provider and insurer
+Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.
+
+Refunds and changes to travel
+For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.
+
+Find out more about changing or cancelling travel plans, including:
+
+where to get advice if you are in a dispute with a provider
+how to access previous versions of travel advice to support a claim
+Support from FCDO
+FCDO has guidance on staying safe and what to do if you need help or support abroad, including:
+
+finding English-speaking lawyers, funeral directors and translators and interpreters in Greece
+dealing with a death in Greece
+being arrested in Greece
+getting help if you’re a victim of crime
+what to do if you’re in hospital
+if you are affected by a crisis, such as a terrorist attack
+Contacting FCDO
+Follow and contact FCDO travel on Twitter, Facebook and Instagram. You can also sign up to get email notifications when this travel advice is updated.
+
+Help abroad in an emergency
+If you are in Greece and you need emergency help from the UK government, contact the British embassy Athens or one of our consulates.
+
+You can also contact FCDO online.
+
+FCDO in London
+You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
+
+Telephone: 020 7008 5000 (24 hours)
+
+Find out about call charges
+
+Risk information for British companies
+The Overseas Business Risk service offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.
+
+Print this page
+Is this page useful?
+Yesthis page is useful
+Nothis page is not useful
+Report a problem with this page
+Topics
+Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Government activity
+Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Support links
+Help Privacy Cookies Accessibility statement Contact Terms and conditions Rhestr o Wasanaethau Cymraeg Government Digital Service
+ All content is available under the Open Government Licence v3.0, except where otherwise stated
+© Crown copyright
+
+Article 4
+
+Skip to main content
+ GOV.UK
+ Navigation menu 
+Menu Search GOV.UK 
+HomePassports, travel and living abroadTravel abroadForeign travel advice
+Foreign travel advice
+Turkey
+Printable version
+
+Print this page
+Warnings and insurance
+Still current at:
+27 July 2023
+Updated:
+26 July 2023
+Latest update:
+Update to number of reported cases in medical tourism ('Health' page).
+
+Download map (PDF)
+FCDO advises against travel to parts of Turkey.
+
+The Foreign, Commonwealth & Development Office (FCDO) provides advice about risks of travel to help British nationals make informed decisions. Find out more about FCDO travel advice.
+
+Areas where FCDO advises against travel
+Your travel insurance could be invalidated if you travel against FCDO advice. Consular support is also severely limited where FCDO advises against travel.
+
+Border with Syria
+FCDO advises against all travel within 10km of the border with Syria.
+
+Sirnak (city)
+FCDO advises against all but essential travel to Sirnak (city).
+
+Hakkari province
+FCDO advises against all but essential travel to Hakkari province.
+
+Find out more about why FCDO advises against travel.
+
+Heatwave and wildfires in Europe
+High temperatures are affecting many areas of Turkey and there is a risk of wildfires. Read our guidance on extreme weather and wildfires in Turkey and NHS advice on coping in hot weather.
+
+Before you travel
+No travel can be guaranteed safe. Read all the advice in this guide as well as support for British nationals abroad which includes:
+
+advice on preparing for travel abroad and reducing risks
+information for women, LGBT+ and disabled travellers
+Follow and contact FCDO travel on Twitter, Facebook and Instagram. You can also sign up to get email notifications when this advice is updated.
+
+Travel insurance
+If you choose to travel, research your destinations and get appropriate travel insurance. Insurance should cover your itinerary, planned activities and expenses in an emergency.
+
+Entry requirements
+FCDO advises against travel to parts of Turkey.
+
+This advice reflects the UK government’s understanding of current rules for people travelling on a full ‘British citizen’ passport from the UK, for the most common types of travel.
+
+The authorities in Turkey set and enforce entry rules. If you’re not sure how these requirements apply to you, contact Turkey’s UK embassy or consulate.
+
+COVID-19 rules
+Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.
+
+If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.
+
+You should also read TravelHealthPro’s general COVID-19 advice for travellers.
+
+Passport validity requirements
+If you are visiting Turkey, your passport must:
+
+be valid for at least 150 days from the date you arrive
+have a full blank page for entry and exit stamps
+If you are a resident in Turkey, your passport must be valid for 6 months from the date you arrive.
+
+If entering Turkey through a land border, make sure your passport has a dated entry stamp before you leave the border crossing.
+
+Visa requirements
+If you’re visiting Turkey for tourism or business for up to 90 days in any 180-day period, you do not need a visa.
+
+If you plan to remain in Turkey for more than 90 days, apply for a longer stay visa or get a residence permit before the end of your 90-day stay. If you plan to work in Turkey, make sure you have the right permits.
+
+If you hold a different type of British nationality, such as British National (Overseas), check visa requirements with the Turkish Embassy or Consulate General before you travel.
+
+Applying for a visa
+The Turkish Ministry of Foreign Affairs has information on applying for a visa.
+
+Vaccination requirements (other than COVID-19)
+At least 8 weeks before your trip, check the vaccinations and certificates you need on TravelHealthPro.
+
+Travelling with children
+If leaving Turkey with a dual British-Turkish national child who is 18 or younger, you may need to show the Turkish immigration authorities evidence that the Turkish parent has given permission.
+
+Safety and security
+FCDO advises against travel to parts of Turkey.
+
+You should also read FCDO’s overall travel advice and regional risks advice.
+
+Terrorism
+There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.
+
+UK Counter Terrorism Policing has information and advice on staying safe abroad and what to do in the event of a terrorist attack. Find out how to reduce your risk from terrorism while abroad.
+
+Terrorism in Turkey
+Terrorists are very likely to try to carry out attacks in Turkey.
+
+Most terrorist attacks have happened in Southeast Turkey, Ankara and Istanbul. Citizens from western countries may be targets or caught up in attacks, particularly in major cities.
+
+Terrorists may target places visited by foreigners, such as:
+
+public buildings
+places of worship
+major events
+large public gatherings
+Terrorist groups sometimes call for attacks around religious occasions and public holidays.
+
+Previous attacks have included:
+
+armed assaults
+suicide bombings
+car bombings
+rocket attacks
+arson
+improvised explosive devices left in bins, crowded areas, shops and on public transport
+There is also a heightened risk of terrorist attack against the aviation industry in Turkey.
+
+You should:
+
+follow the advice of the local security authorities
+monitor media reports
+cooperate fully with security officials at airports
+It is illegal to be a member or supporter of a terrorist organisation in Turkey. Organisations such as the YPG and the Gülen Movement are illegal in Turkey.
+
+Terrorist and insurgent groups include Daesh (formerly referred to as ISIL), PKK, and THKP/C-Acilciler (Turkish People’s Liberation Party/Front) and the DHKP/C (Revolutionary People’s Liberation Front). There’s a domestic terrorist presence in the southeast of the country including in Van, Bitlis, Bingol, Elazig, Mus, Batman, Erzincan, Diyarbakir and Agri provinces.
+
+DHKP/C attacks have mainly targeted the Turkish authorities and US diplomatic missions.
+
+Extremist groups based in Syria including Daesh and Al-Qaeda linked groups have the capacity to carry out attacks in neighbouring countries, including Turkey. Daesh has previously targeted border crossings and nearby locations on the Syrian side of the border.
+
+Take particular care during dates of significance to terrorist groups, including:
+
+15 August
+30 March to 20 April
+19 December
+Terrorist groups operating in Syria, including Daesh and Al-Qaeda linked groups, routinely use kidnapping as a tactic. They’re present in the Syrian border areas. Be particularly vigilant in these locations. Daesh and other terrorist groups may target humanitarian aid workers and journalists. If you’re kidnapped, the reason for your presence is unlikely to serve as protection or secure your safe release.
+
+The long-standing policy of the British Government is not to make substantive concessions to hostage takers. The British Government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
+
+Political situation
+Occasional demonstrations can occur in cities and may become violent. Police have used tear gas and water cannon to disperse protests. Avoid all demonstrations and leave the area if one develops. Local transport routes may be disrupted.
+
+Crime
+Street robbery and pickpocketing
+Street robbery and pick-pocketing are common in the major tourist areas of Istanbul. Be aware of your personal belongings and make sure they are always secure.
+
+Drink and food spiking
+Buy your own drinks and always keep sight of them so they are not spiked. Be wary of strangers approaching you offering food and drink (which may be drugged), to change money, or to take you to a restaurant or nightclub.
+
+Counterfeit alcohol
+In a small number of cases, counterfeit alcohol has caused deaths of tourists. If you have any concerns, seek advice from your tour operator or the Turkish authorities.
+
+Sexual assault
+In 2022, 51 cases of sexual assault, including rape, were reported to British consular staff in Turkey. Most sexual assault cases reported to British consular staff in Turkey have happened during summer holidays in coastal tourist areas. Many were committed at night by someone the victim met during the day, including hotel workers. There have also been sexual attacks on minors visiting toilet facilities alone. Be extra vigilant in these situations.
+
+Vehicle safety
+Accepting lifts from strangers can be dangerous. Find a registered taxi and note the registration number before entering.
+
+Laws and cultural differences
+Personal ID
+It is illegal not to carry some form of photographic ID in Turkey. Always carry your passport or residence permit. In some busy areas, especially Istanbul, the authorities may stop people for ID checks. There are also several police checkpoints on main roads across Turkey. Cooperate with officials conducting checks.
+
+Dress visiting mosques
+Dress modestly if you’re visiting a mosque or a religious shrine to avoid causing offence.
+
+Personal injury claims
+There are reports of tourists being encouraged to submit a claim for personal injury if they have experienced gastric illness in Turkey. Find out what you can do if you have suffered a personal injury on the Citizens Advice website. Only make a claim if you have genuinely suffered from injury or illness. If you make a false or fraudulent claim, you may face legal proceedings in the UK or Turkey.
+
+Smoking bans
+Smoking is illegal on public transport and in all indoor workplaces and public places. Smoking is restricted in some outdoor areas where cultural, artistic, sports or entertainment activities are held.
+
+Illegal drugs and prison sentences
+Turkey has strict laws against the use, possession and trafficking of illegal drugs. You may receive a fine or prison sentence of 4 to 24 years.
+
+Stray dogs
+Most towns and cities have stray dogs. Packs congregate in parks and wastelands and can be aggressive. Take care and do not approach stray dogs. If you’re bitten, get medical advice immediately. Rabies and other animal borne diseases are present in Turkey.
+
+Sale of antiquities
+The possession, sale and export of antiquities is illegal. You could be fined and receive a prison sentence of 5 to 12 years. Some historical items found at local markets and in antique shops can be sold within Turkey but are illegal to export. Confirm the legal requirements before purchasing or exporting such items.
+
+Using cameras
+Do not take photographs near military or official installations. Ask for permission before photographing people.
+
+LGBT+ travellers
+Homosexuality is legal in Turkey. However, many parts of Turkey are socially conservative and showing affection in public could result in unwelcome attention. Read more advice for LGBT+ travellers.
+
+Comments about the nation and flag
+It is illegal to insult the Turkish nation or the national flag, or to deface currency. This can include comments about the Turkish state. These laws also apply to comments made online. You could get a prison sentence of between 6 months and 3 years
+
+Outdoor activities and adventure tourism
+Extreme sports
+If you do an extreme sport, check that adequate safety precautions are in place. British nationals have been injured and killed doing extreme sports. Only use reputable operators. Make sure you are given full instructions and training before your activity. Make sure your travel insurance covers you for all activities you want to do.
+
+Transport risks
+Road travel
+If you are planning to drive in Turkey, see information on driving abroad. You must carry a green card in Turkey.
+
+Take care when travelling by road, particularly at night. Approach checkpoints slowly and follow the instructions of security personnel. Roads between major cities are generally in excellent condition, but can be poor in remote, rural areas. Accidents are common and mainly due to poor or reckless driving.
+
+It is illegal not to wear a helmet on motorcycles and mopeds. You may get a large fine if you do not wear a helmet.
+
+Do not drink and drive. The police fine drunk drivers and your licence could be confiscated for 6 months.
+
+Licences and documents
+You need either a 1968 international driving permit (IDP) or a valid UK driving licence (notarised in Turkish) to drive in Turkey. The 1949 IDP is not accepted anymore. You cannot buy an IDP outside the UK, so get one before you travel. You can buy an IDP in person from some UK post offices – find your nearest post office branch that offers this service.
+
+If you stay in Turkey for more than 6 months, you must convert your UK driving licence into a Turkish licence. Provisional driving licences aren’t recognised. If you intend to bring a vehicle registered in another country into Turkey, familiarise yourself with the relevant Turkish customs regulations.
+
+Extreme weather and natural disasters
+Forest fires
+Forest fires happen frequently in Turkey during summer. Take care when visiting or driving through woodland areas.
+
+You could get a fine or prison sentence for lighting a fire of any kind in forbidden areas. This includes barbeques and discarding cigarette butts in the woods.
+
+If there is a forest fire in your area, local authorities may tell you to leave your accommodation. Follow the directions of local authorities.
+
+If you see a forest fire, call emergency services on 112.
+
+Flooding
+Severe rainstorms can cause flooding and landslides across Turkey. Roads may become impassable and bridges damaged, making it difficult to travel and reducing essential services.
+
+If you’re in an affected area:
+
+monitor local media
+follow instructions of local authorities, including evacuation orders
+Earthquakes
+Many parts of Turkey regularly experience earthquakes and tremors. These can be a high magnitude, cause damage to infrastructure, and pose a risk to life.
+
+A 7.8 magnitude earthquake hit Gaziantep and neighbouring provinces in the south-east of Turkey in February 2023. Strong earthquakes may continue to affect the region and it remains heavily damaged.
+
+Follow any advice given by the local authorities.  See the US Federal Emergency Management Agency guidance about what to do before, during and after an earthquake .
+
+Regional risks
+FCDO advises against travel to parts of Turkey.
+
+This section has safety advice for regions of Turkey. It only covers regions where FCDO has specific advice.
+
+You should also read FCDO’s overall travel advice
+
+Border with Syria
+FCDO advises against all travel within 10km of the border with Syria.
+
+Fighting in Syria continues in areas close to the Turkish border and there remains a heightened risk of terrorism in the region.
+
+Due to the ongoing conflict in Syria, roads in Hatay province leading towards the border may be subject to closure.
+
+Sirnak (city)
+FCDO advises against all but essential travel to Sirnak (city).
+
+Hakkari province
+FCDO advises against all but essential travel to Hakkari province.
+
+This is due to a heightened risk of terrorism in the region. If you’re undertaking essential travel to this province, take extreme care.
+
+Mount Ararat
+Mount Ararat, in Ağrı province, is a special military zone. You must have access permission from the Doğubayazıt Government Office, and pay a fee in the local Governor’s Office. If visiting with a travel agent or tour group, confirm with them whether you need an individual permit.
+
+Take extra care if you’re travelling to this area. Keep up to date with local media and follow the advice of the local authorities.
+
+Health
+FCDO advises against travel to parts of Turkey.
+
+Before you travel check that:
+
+your destination can provide the healthcare you may need
+you have appropriate travel insurance for local treatment or unexpected medical evacuation
+This is particularly important if you have a health condition or are pregnant.
+
+Emergency medical number
+Dial 112 and ask for an ambulance.
+
+Contact your insurance or medical assistance company promptly if you’re referred to a medical facility for treatment.
+
+Vaccinations and health risks
+At least 8 weeks before your trip check:
+
+the latest information on vaccinations and health risks in TravelHealthPro’s Turkey guide
+where to get vaccines and whether you have to pay on the NHS travel vaccinations page
+Medication
+The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries. Some common medicines are controlled in Turkey. For more information and the documentation needed, contact the nearest Turkish Embassy or Consulate. Read best practice when travelling with medicines on TravelHealthPro.
+
+The NHS has information on whether you can take your medicine abroad. British prescriptions are not accepted in pharmacies in Turkey. In some cases, you may be able to liaise with Turkish hospitals and your GP to arrange for a Turkish prescription for the equivalent medicine.
+
+Health insurance cards
+The European Health Insurance Card (EHIC) and Global Health Insurance card (GHIC) are not valid in Turkey.
+
+Healthcare facilities in Turkey
+View a list of medical facilities in Turkey.
+
+Travel and mental health
+Read FCDO guidance on travel and mental health. There is also mental health guidance on TravelHealthPro.
+
+Medical tourism
+Medical tourism is when people travel to have medical, surgical or dental treatment abroad. Cosmetic surgery, dental procedures and cardiac surgery are the most common procedures for medical tourists.
+
+The standard of medical facilities and available treatments can vary widely globally. We are aware of 25 British nationals who have died in Turkey since January 2019 following medical procedures. There were reports of an outbreak of botulism linked to weight loss treatments performed in Istanbul and Izmir in February 2023. You can find further information about botulism in Turkey on TravelHealthPro.
+
+You should:
+
+do your own research - private companies have a financial interest in arranging your medical treatment abroad
+visit the HealthTurkiye website for medical providers approved by the Ministry of Health
+discuss plans with your UK doctor before committing to any procedure abroad
+Find further advice on medical tourism from TravelHealthPro.
+
+Getting help
+FCDO advises against travel to parts of Turkey.
+
+The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.
+
+Emergency services in Turkey
+Telephone: 112 (ambulance, fire, police)
+
+Contact your travel provider and insurer
+Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.
+
+Refunds and changes to travel
+For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.
+
+Find out more about changing or cancelling travel plans, including:
+
+where to get advice if you are in a dispute with a provider
+how to access previous versions of travel advice to support a claim
+Support from FCDO
+FCDO has guidance on staying safe and what to do if you need help or support abroad, including:
+
+finding English-speaking lawyers, funeral directors and translators and interpreters
+dealing with a death in Turkey
+being arrested in Turkey
+getting help if you’re a victim of crime
+what to do if you’re in hospital
+If you are affected by a crisis, such as a terrorist attack
+Contacting FCDO
+Follow and contact FCDO travel on Twitter, Facebook and Instagram. You can also sign up to get email notifications when this travel advice is updated.
+
+Help abroad in an emergency
+If you are abroad and you need emergency help from the UK government, contact the nearest British embassy, consulate or high commission.
+
+You can also contact FCDO online.
+
+FCDO in London
+You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
+
+Telephone: 020 7008 5000 (24 hours)
+
+Find out about call charges
+
+Risk information for British companies
+The Overseas Business Risk service offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.
+
+Print this page
+Is this page useful?
+Yesthis page is useful
+Nothis page is not useful
+Report a problem with this page
+Topics
+Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Government activity
+Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Support links
+Help Privacy Cookies Accessibility statement Contact Terms and conditions Rhestr o Wasanaethau Cymraeg Government Digital Service
+ All content is available under the Open Government Licence v3.0, except where otherwise stated
+© Crown copyright
+
+
+Article 5
+
+Skip to main content
+ GOV.UK
+ Navigation menu 
+Menu Search GOV.UK 
+HomePassports, travel and living abroadTravel abroadForeign travel advice
+Foreign travel advice
+Spain
+Printable version
+
+Print this page
+Warnings and insurance
+Still current at:
+27 July 2023
+Updated:
+26 July 2023
+Latest update:
+Updated information on providing personal ID when renting a vehicle, water safety, altitude sickness, and what to do in the event of a forest fire ('Safety and security' page).
+The Foreign, Commonwealth & Development Office (FCDO) provides advice about risks of travel to help British nationals make informed decisions. Find out more about FCDO travel advice.
+
+Heatwave in Europe
+Extreme temperatures are affecting many areas of Spain. Read our guidance on extreme weather in Spain and NHS advice on coping in hot weather.
+
+Before you travel
+No travel can be guaranteed safe. Read all the advice in this guide as well as support for British nationals abroad which includes:
+
+advice on preparing for travel abroad and reducing risks
+
+information for women, LGBT+ and disabled travellers
+
+Follow and contact FCDO travel on Twitter, Facebook and Instagram. You can also sign up to get email notifications when this advice is updated.
+
+Travel insurance
+If you choose to travel, research your destinations and get appropriate travel insurance. Insurance should cover your itinerary, planned activities and expenses in an emergency.
+
+Entry requirements
+This advice reflects the UK government’s understanding of current rules for people travelling on a full ‘British citizen’ passport from the UK, for the most common types of travel.
+
+The authorities in Spain set and enforce entry rules. If you’re not sure how these requirements apply to you, contact Spain’s embassy or consulates in the UK.
+
+If you are planning to travel to Spain through France, check the latest FCDO travel advice for France before you start your journey.
+
+If you are planning to travel to Spain through Gibraltar, check the latest FCDO travel advice for Gibraltar before you start your journey.
+
+COVID-19 rules
+Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.
+
+If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there. Make sure you:
+
+can access money
+understand what your insurance will cover
+You should also read TravelHealthPro’s general COVID-19 advice for travellers.
+
+Travel to Spain
+There are no COVID-19 testing or vaccination requirements for passengers entering Spain.
+
+Passport validity requirements
+If you are planning to travel to an EU country (except Ireland), or Switzerland, Norway, Iceland, Liechtenstein, Andorra, Monaco, San Marino or Vatican City, you must follow the Schengen area passport requirements.
+
+Your passport must be:
+
+issued less than 10 years before the date you enter the country (check the ‘date of issue’)
+valid for at least 3 months after the day you plan to leave (check the ‘expiry date’)
+Check your passport meets these requirements before you travel. If your passport was issued before 1 October 2018, extra months may have been added to its expiry date.
+
+Contact Spain’s embassy or consulates in the UK if you think that your passport does not meet both these requirements. Renew your passport if you need to.
+
+Visa requirements
+You can travel to countries in the Schengen area for up to 90 days in any 180-day period without a visa. This applies if you travel as a tourist, to visit family or friends, to attend business meetings, cultural or sports events, or for short-term studies or training.
+
+If travelling to Spain and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.
+
+To stay longer, to work or study, for business travel or for other reasons, you need to meet the Spanish government’s entry requirements. Check with Spain’s embassy or consulates in the UK before you travel about what type of visa or work permit you may need.
+
+If travelling to Spain for work, read the guidance on visas and permits.
+
+If you cannot return to the UK before the expiry of your visa, permit or visa-free limit, contact the Spanish government’s national information service (In Spanish, English speaking operators are available). You can dial 060 from a Spanish phoneline.
+
+If you are visiting Spain and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must apply to the immigration authorities (‘Extranjería’)(in Spanish).
+
+If you stay in Spain with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.
+
+Passport stamping
+Check your passport is stamped as you enter or exit the Schengen area through Spain as a visitor.
+
+Border guards check you’re complying with the 90-day visa-free limit for short stays in the Schengen area. If you do not have relevant entry or exit stamps in your passport, they will assume you have overstayed.
+
+You can show evidence of when and where you entered or exited the Schengen area, and ask the border guards to add this date and location in your passport. Examples of acceptable evidence includes boarding passes and tickets.
+
+E-gates
+Use the desks staffed by border officers. If you are aged 18 or over, and airport staff instruct you to, you may be able to use e-gates where they are in operation.
+
+If you use an e-gate, make sure you get your passport stamped by a border officer.
+
+Additional documents required by tourists
+If you enter the Schengen area as a tourist, you may need to provide additional documents at the border. As well as a valid return or onward ticket, when travelling to Spain you could be asked to show:
+
+you have enough money for your stay
+proof of accommodation for your stay, for example:
+a hotel booking confirmation
+proof of address if visiting your own property (such as second home)
+an invitation or proof of address if staying with a third party, friends or family. A carta de invitation completed by your hosts is one of the options available.
+You can visit the Spanish Ministry of Interior website for more information (only available in Spanish).
+
+Residents of Spain
+If you are resident in Spain your passport should not be stamped when entering or leaving Spain.
+
+Actively show your proof of residence, such as the foreigner’s identity card (‘la tarjeta de identidad de extranjero’ or ‘TIE’), when presenting your passport at Spanish border control. For further information, read about living in Spain.
+
+Travel between Spain and Gibraltar
+Spanish border checks can cause delays when crossing between Spain and Gibraltar. If you are travelling to Spain through Gibraltar, check the travel advice for entry requirements for Gibraltar.
+
+There is no charge to enter or leave Gibraltar. You should not hand over money to anybody claiming there is a charge.
+
+Unaccompanied minors
+Spanish law considers anyone under 18 to be a minor. If an unaccompanied minor comes to the attention of the Spanish authorities (particularly in connection with criminal incidents or when in hospital) they will be considered vulnerable and may be taken to a minors centre until a parent or guardian is found.
+
+Vaccination requirements (other than COVID-19)
+At least 8 weeks before your trip, check the vaccinations and certificates you need on TravelHealthPro.
+
+Customs rules
+There are strict rules about what goods can be taken into and out of Spain. You can find details on the National Tax Agency leaflet (in Spanish and English). Declare anything that may be prohibited or subject to tax or duty.
+
+Taking food and drink into Spain
+You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food required for medical reasons. Check the rules about taking food and drink into the EU on the European Commission website.
+
+Taking money and goods into Spain
+Check the National Airport Association website for guidance on taking money and goods into and out of Spain.
+
+Safety and security
+You should also read FCDO’s overall travel advice.
+
+Terrorism
+There is a high threat of terrorist attack globally affecting UK interests and British Nationals, including from groups and individuals who view the UK and British Nationals as targets. You should remain vigilant at all times.
+
+UK Counter Terrorism Policing has information and advice on staying safe abroad and what to do in the event of a terrorist attack. Find out how to reduce your risk from terrorism while abroad.
+
+Terrorism in Spain
+Terrorists are likely to try to carry out attacks in Spain.
+
+Attacks could be indiscriminate, including in places visited by foreigners. The Spanish authorities take measures to protect visitors. Be aware of your surroundings and follow the instructions of the local authorities.
+
+In January 2023, there was a terrorist-related incident where a man carrying a machete attacked 2 churches in the southern Spanish city of Algeciras, in Cadiz, resulting in injuries and the loss of one life.
+
+In 2017, there were 2 terrorist-related incidents where vehicles were driven directly at pedestrians, resulting in injuries and loss of life. These were in the Las Ramblas area of Barcelona and in Cambrils, near Salou (100km southwest of Barcelona).
+
+Political situation
+Demonstrations, political gatherings or marches can take place with little or no warning, particularly in cities. Follow the advice of police and local authorities.
+
+While most demonstrations are peaceful, there is a risk of unrest or violence. If you’re in and around areas where demonstrations are taking place, be aware of what is happening around you and move away if there are signs of disorder.
+
+Crime
+Protecting your belongings
+Most visits to Spain are trouble-free, but be alert to street crime. Thieves use distraction techniques, and often work in teams. Take care of your passports, money and personal belongings, particularly when collecting or checking in luggage at the airport, and while arranging car hire.
+
+Do not carry all your valuables in one place. Keep a photocopy or scanned copy of your passport somewhere safe.
+
+Make sure your accommodation has adequate security. Lock all doors and windows at night, or when out. If concerned about the security of your accommodation, speak to your travel operator or the property owner.
+
+Vehicle crime
+‘Highway pirates’ target foreign-registered and hire cars, especially those towing caravans. They may (forcefully) try to make you stop, claiming there is something wrong with your car or that you have damaged theirs. If you decide to stop to check the condition of a vehicle, stop in a public area with lights, such as a service station. Be wary of anyone offering help.
+
+When driving, be wary of approaches by people posing as police officers in plain clothes travelling in unmarked cars. In all traffic-related matters, police officers will usually be in uniform. All police officers, including those in plain clothes, carry official ID. Unmarked police vehicles have a flashing electronic sign on the rear window which reads Police (‘Policía’) or Civil Guard (‘Guardia Civil’), and may use blue flashing lights. Genuine police officers will only ask you to show them your documents and will not ask for your bag or wallet.
+
+Attacks and sexual assault
+Attacks, including sexual assaults, are rare but do occur. Many are carried out by other British nationals.
+
+Avoid splitting up from your friends, and do not go off with people you do not know. See TravelAware ‘Stick with your mates’ for tips and advice. In an emergency call 112.
+
+Drink and food spiking
+Be alert to the possible use of ‘date rape’ and other drugs including GHB and liquid ecstasy.
+
+Buy your own drinks and always keep them in sight to avoid them being spiked. Alcohol and drugs can reduce your vigilance, making you less in control. If you drink, know your limit. Drinks served in bars in Spain are often stronger than those in the UK.
+
+Scams
+Thieves posing as police officers may ask to see your wallet, claiming they need to see it for identification. Genuine police officers will ask to see ID, but will not ask for wallets or purses.
+
+Timeshare and holiday clubs
+Timeshare ownership is well established in Spain. There are respected companies, agents and resorts who operate legally and fairly. However, there are also unscrupulous companies who falsly claim to provide incentives.
+
+Read timeshare fraud advice from Action Fraud, the UK’s national fraud reporting centre.
+
+Laws and cultural differences
+Personal ID
+You must provide photo ID if requested by a police officer. This includes the Guardia Civil and national, regional and local police forces. The police have the right to hold you at a police station until they have confirmed your identity.
+
+Ignoring direct requests of a police officer can be considered as ‘disobedience’, which is a criminal offence.
+
+Hotels, tourist accommodation and car rental companies have a legal duty to register passport details of tourists when they check-in or collect a vehicle.
+
+When checking-in to your accommodation, wait until hotel staff have registered your passport details, or taken a photocopy of your passport. Do not leave your passport at reception to collect later.
+
+You may need to show ID when buying goods with credit or debit cards. Your driving licence or a photocopy of your passport may be accepted, but they may need you to show your original passport.
+
+Alcohol laws and bans
+You cannot drink alcohol in the street in some areas of Spain. You can be given an on-the-spot fine. There are strict controls on drinking and sexual activity in public places, including on beaches.
+
+Alcohol laws in the Balearic Islands
+Local laws limit the sale and availability of alcohol in areas of some resorts on the islands of:
+
+Mallorca
+
+Magaluf (Calvià)
+
+Playa de Palma
+
+Ibiza
+
+San Antonio (San Antoni de Portmany)
+
+This prohibits:
+
+happy hours
+
+open bars (such as all you can drink in 1-hour offers)
+the sale of alcohol from vending machines
+self-service alcohol dispensers
+the organising of pub-crawls and party boat trips
+‘off-licence’ sales between 9:30pm and 8am
+Hotels and other establishments are obliged to evict customers who behave dangerously on balconies. Both the customer and the establishment can be fined for such behaviour.
+
+Illegal drugs and prison sentences
+Possession of even a small quantity of drugs can lead to arrest and detention. Possession of large quantities will usually result in prosecution and a prison sentence.
+
+Illegal commercial parties in villas and private homes
+There have been a number of serious accidents involving people attending illegal commercially promoted parties in villas and private homes on the islands of Ibiza and Mallorca.
+
+Licensed clubs and bars are required to meet safety and security standards, including emergency exits and capacity limits, and to have trained, licensed security staff. Illegal commercial parties may not meet these standards. Take care of your belongings, make sure you know where emergency exits are and do not take unnecessary risks.
+
+You may receive a fine for attending illegal commercially promoted parties.
+
+Dress
+In some parts of Spain it’s against the law to be in the street wearing only a bikini or swimming shorts. Being bare-chested is also illegal in some areas in Spain. You may be fined if you’re caught wearing swimwear on the seafront promenade or adjacent streets.
+
+For security reasons, some public authorities in Spain do not allow the burka or niqab to be worn in their buildings. If you visit town council buildings wearing a burka or niqab, you may be asked to remove it while inside.
+
+Changing money
+When changing money, always use official money exchange offices or banks because unofficial money changers may give you counterfeit money. Possession or use of counterfeit money is considered a serious crime in Spain and may lead to prosecution.
+
+LGBT+
+Spain is a generally tolerant and progressive place for LGBT+ travellers. There are active LGBT+ communities and social venues, particularly in big cities. Same-sex marriage has been legal in Spain since 2005. Since 2007, transgender people are able to register under their preferred sex in public documents such as birth certificates, identity cards and passports without undergoing prior gender reassignment surgery. Spain does not recognise a third gender.
+
+Read more advice for LGBT+ travellers.
+
+Outdoor activities and adventure tourism
+Falls from height
+There have been a number of very serious accidents (some fatal) as a result of falls from height, including balconies. Many accidents have involved British nationals, and have had a devastating impact on those involved and their loved ones.
+
+Do not take unnecessary risks around balconies or other high places, particularly if you’re under the influence of drink or drugs. If you are staying in a room with a balcony, follow the safety advice and watch out for friends who may be at risk.
+
+In some regions you may be fined or evicted from your hotel if you are found to be behaving irresponsibly around balconies. Your travel insurance may not cover you for incidents that take place on a balcony or if you were under the influence of drink or drugs when the incident happened.
+
+Festivals, concerts and processions
+Many large events and public processions are held in Spain each year. Follow the advice of police and local authorities when attending events.
+
+Take care of your valuables if attending a festival or large concert. See the festival travel checklist for more advice.
+
+Swimming and beaches
+Every year, people drown in the sea and in swimming pools in Spain. Children should always be supervised, even if they can swim or there is a lifeguard present.
+
+Take care when swimming in the sea. Some beaches, especially around Spanish islands, may have strong undercurrents.
+
+Avoid swimming at beaches that are close to rivers. Do not dive into unknown water as hidden rocks or shallow depths can cause serious injury or death.
+
+Many beaches have a flag system. Make sure you understand the system and follow any warnings (a red flag means you must not enter the water). Take extra care and seek local knowledge if there are no lifeguards, flags or signs.
+
+If you are walking along unmanned beaches, be aware that waves can come in further than expected and have strong undertows.
+
+Further tips can be found on ABTA’s swim safe pages and the Royal Life Saving Society’s ‘Water Safety on Holiday’ page.
+
+Follow local advice if jellyfish are present.
+
+Hill walking, skiing and mountain activities
+Temperatures in some parts of Spain can change very quickly. Take extra care when planning a hike or walk. Check local weather reports for warnings of extreme heat or cold temperatures.
+
+For advice on safety and weather conditions for skiing or other outdoor activities you can:
+
+call the Spanish National Tourist Office in London on 020 7317 2028
+
+see the European Avalanche Warning Services
+
+If an accident occurs while mountaineering, canoeing, potholing or climbing, or if you become lost in the mountains and need mountain rescue, call:
+
+112 for the emergency services
+062 for the Civil Guard
+The Catalonia region has started billing climbers, skiers and other adventurers whose negligent behaviour causes them to need to be rescued.
+
+Altitude sickness may be a risk in some of the higher mountain ranges in Spain, particularly in the regions of Granada, Huesca and Tenerife. More information about altitude sickness is available from the TravelHealthPro website.
+
+Transport risks
+Check with your airline or tour operator whether there is any planned strike action which might disrupt your journey.
+
+Taxis
+Only use official registered or licensed taxis, or reputable transport companies you recognise. Licensing regulations differ across Spain and in certain cities pre-booking is required.
+
+Passengers caught using unlicensed taxi services are liable for fines of up to 600 Euros. Make sure you book your taxi or airport transfer through a licensed firm.
+
+Road travel
+If you are planning to drive in Spain, see information on driving abroad and read the RAC guide.
+
+In 2021 there were 1,508 road deaths in Spain (source: Department for Transport). This equates to 32 road deaths per million population and compares to the UK average of 24 road deaths per million population in 2021.
+
+Licences and permits
+To drive a car or a motorcycle over 125cc in Spain you must be 18 years of age or above, and at least 16 years old to ride a motorcycle up to 125cc. You must carry a valid driving licence and ID at all times.
+
+If visiting Spain, you can drive on your full UK driving licence. Provisional licences are not valid for driving in Spain.
+
+If you’re living in Spain, check the Living in Guide for information on requirements for residents.
+
+If you are using UK insurance, always carry your certificate with you in case you are stopped. Check that your UK insurance will cover you to drive in Spain, and for how long. This certificate is generally only valid for a stay of less than 3 months.
+
+Driving a British car abroad
+You may need a UK sticker to drive your car outside the UK. In 2021 UK stickers replaced GB stickers. Check the GOV.UK Displaying number plates website for more information on what to do if you are driving outside the UK.
+
+Driving regulations
+Motorists drive on the right-hand side of the road in Spain. Driving rules and customs are different from those in the UK.
+
+You must carry 2 red warning triangles which, in the event of an accident or breakdown should be placed in front of and behind the vehicle. They should be at least 50 metres away from the vehicle in each direction. You must have a spare wheel and the tools to change it. If you get out of your vehicle during an accident or breakdown, or while waiting for the arrival of the emergency services, you must wear a reflective vest or you may face a fine.
+
+Spain has strict drink driving laws. Police regularly carry out roadside checks for alcohol and drugs. Penalties include fines, loss of licence and imprisonment.
+
+You can be given an on-the-spot fines from the police for a variety of driving offences including speeding. If you accept the fine and pay within 20 days, it will be reduced by 50%. More information on how to pay is available on the Spanish driving agency website.
+
+Seat belts are compulsory for all passengers in the front and back seats. Children under the age of 12 or under 1.35m in height must use an approved child safety seat and be positioned in the back seat. Children are only permitted to travel in the front seat of the car if the rear seats are already occupied by other children or if the vehicle does not have rear seats. Car hire agencies can provide child seats, so let them know you need one when you reserve the car. Incorrect installation of a child seat or not wearing a seat belt can be considered a serious offence and met with fines.
+
+Motorcyclists (including drivers of mopeds and quads) must wear an approved safety helmet and other protective clothing. Not wearing one is considered a serious offence and can result in a fine.
+
+It is illegal to use a mobile phone when driving, even if you have pulled over to the side of the road. You must be completely away from the road. Using an earpiece is also illegal. Only completely hands-free units are allowed to be used.
+
+Vehicle restrictions
+Some cities in Spain have introduced emergency anti-pollution protocols to limit exhaust emissions when air pollution levels are high. When activated, vehicle access is restricted and speed limits are imposed. Follow the instructions of the local authorities.
+
+Some cities, including Madrid and Barcelona, operate permanent low emission zones. See the MadridCentral and Barcelona Ring Roads Low Emission Zone websites for  information.
+
+Extreme weather and natural disasters
+Extreme temperatures
+Extreme temperatures are currently affecting many areas of Spain. For severe weather warnings and updates, visit the Spanish Meteorological Office (AEMET) and European Meteorological Services website.
+
+For information on how to take care in the heat visit the NHS website or the website of the Spanish Ministry of Health (only available in Spanish).
+
+You should check with your travel provider before traveling and follow the advice of local authorities at all times.
+
+Forest fires
+Forest fires occur frequently in Spain (including in the Spanish islands) during the summer months, when temperatures regularly reach over 40ºC. Be aware of your environment when visiting or driving through woodland areas. For information on forest fire risk visit the Spanish Meteorological Office (AEMET).
+
+Causing a forest fire is a criminal offence in Spain, even if unintentional. Make sure cigarette ends are properly extinguished, do not light barbecues and do not leave empty bottles behind. You can be heavily fined for not following the rules against lighting outdoor barbecues in forest areas. Make sure you know the rules if considering a barbeque.
+
+For information on what to do in the event of a forest fire, visit the Civil Protection website (only available in Spanish). Immediately report any fire you see to the emergency services on 112. In the case of wildfires, the situation can change quickly, so you should stay up to date with official advice.
+
+Flooding
+Flash flooding can occur, causing travel disruption and damage to property and infrastructure. Check weather warnings from Spain’s meteorological office (AEMET) before travel and follow the advice of the local authorities.
+
+Health
+Before you travel check that:
+
+your destination can provide the healthcare you may need
+you have appropriate travel insurance for local treatment or unexpected medical evacuation
+This is particularly important if you have a health condition or are pregnant.
+
+Emergency medical number
+Dial 112 and ask for an ambulance.
+
+Contact your insurance or medical assistance company promptly if you’re referred to a medical facility for treatment.
+
+For more information read guidance on healthcare when travelling in Europe.
+
+Vaccinations and health risks
+At least 8 weeks before your trip check:
+
+the latest information on vaccinations and health risks in TravelHealthPro’s Spain guide
+where to get vaccines and whether you have to pay on the NHS travel vaccinations page
+Medication
+The legal status and regulation of some medicines prescribed or bought in the UK may be different in Spain.
+
+TravelHealthPro explains best practice when travelling with medicines.
+
+The NHS has information on whether you can take your medicine abroad.
+
+Health insurance cards
+Apply for a free UK Global Health Insurance Card (GHIC) or European Health Insurance Card (EHIC) before leaving the UK. If you already have an EHIC, it will still be valid as long as it remains in date.
+
+The GHIC or EHIC entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Spanish nationals. If you do not have your EHIC with you or you’ve lost it, contact the NHS Overseas Healthcare Team.
+
+It’s important to take out appropriate travel insurance for your needs. A GHIC or EHIC is not an alternative to travel insurance and you should have both before you travel. An EHIC or GHIC does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about what your travel insurance should cover.
+
+EHIC and GHIC cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.
+
+For information regarding access to healthcare in Spain see healthcare for UK nationals visiting Spain.
+
+Healthcare facilities in Spain
+You can view a list of English speaking doctors in Spain.
+
+If you need hospital treatment in Spain you’re more likely to receive appropriate care in a public healthcare facility. However, in some tourist areas there may not be any public healthcare facilities nearby. Your insurance or medical assistance company will be able to provide further details. Some hotels may call private doctors or ambulances to take patients to private hospitals. The GHIC or EHIC will not be accepted there. For more information, visit Healthcare for UK nationals.
+
+COVID-19 healthcare in Spain
+Rapid lateral flow tests (‘pruebas de antígenos’) are widely available in pharmacies in Spain for a fee.
+
+If you have symptoms or test positive for COVID-19 during your stay in Spain, you are not required to self-isolate.
+
+Hotels and other accommodation providers may have their own COVID-19 protocols in place. Follow any safety measures put in place by your accommodation provider. Your accommodation provider may have a list of private doctors that they can call to assess your symptoms and conduct a COVID-19 test.
+
+Follow the advice of the local authorities.
+
+Travel and mental health
+Read FCDO guidance on travel and mental health. There is also guidance on TravelHealthPro.
+
+Getting help
+The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.
+
+Emergency services in Spain
+Telephone:
+
+112 (ambulance, fire, police)
+
+Make sure you know the contact details of the local emergency services and the location of the nearest police station.
+
+Reporting crime
+To report a crime, including stolen property and lost or stolen passports, visit the nearest National Police (‘Policia Nacional’), regional police (‘Ertzaintza’ in the Basque Country, ‘Mossos d’Esquadra’ in Catalonia, and ‘Policia Foral’ in Navarre) or Civil Guard (‘Guardia Civil’) station to file a police report (‘denuncia’).
+
+Some Spanish cities also offer a Foreign Tourist Assistance Service (‘Servicio de Atención al Turista Extranjero’ or ‘SATE’) run by the Town Hall and National Police where you will be able to report a crime in English.
+
+Violent crime or sexual assault must be reported in person at the nearest police station. If you’ve had belongings stolen, you’ll need to keep the police report for insurance purposes.
+
+While in Spain, you can also call a dedicated English-speaking police line on +34 90 210 2112 from 9am to 9pm Monday to Friday (not available on public holidays or weekends), or file a police report online for minor offences such as bag or car theft.
+
+If your passport is lost or stolen, you’ll need to apply for an emergency travel document from the nearest British Consulate and to apply for a replacement passport when you return to the UK.
+
+Contact your travel provider and insurer
+Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.
+
+Refunds and changes to travel
+For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.
+
+Find out more about changing or cancelling travel plans, including:
+
+where to get advice if you are in a dispute with a provider
+
+how to access previous versions of travel advice to support a claim
+
+Support from FCDO
+FCDO has guidance on staying safe and what to do if you need help or support abroad, including:
+
+finding English-speaking lawyers, funeral directors and translators and interpreters in Spain
+
+dealing with a death in Spain
+
+being arrested in Spain
+
+getting help if you’re a victim of crime
+
+what to do if you’re in hospital
+
+if you are affected by a crisis, such as a terrorist attack
+
+Contacting FCDO
+Follow and contact FCDO travel on Twitter, Facebook and Instagram. You can also sign up to get email notifications when this travel advice is updated.
+
+Help abroad in an emergency
+If you are in Spain and you need emergency help from the UK government, contact the British Embassy in Madrid or your nearest consulate.
+
+You can also contact FCDO online.
+
+FCDO in London
+You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
+
+Telephone: 020 7008 5000 (24 hours)
+
+Find out about call charges
+
+Living in Spain
+If you’re living in or moving to Spain, read the Living in Spain guide in addition to this travel advice.
+
+Risk information for British companies
+The Overseas Business Risk service offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.
+
+Print this page
+Is this page useful?
+Yesthis page is useful
+Nothis page is not useful
+Report a problem with this page
+Topics
+Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Government activity
+Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Support links
+Help Privacy Cookies Accessibility statement Contact Terms and conditions Rhestr o Wasanaethau Cymraeg Government Digital Service
+ All content is available under the Open Government Licence v3.0, except where otherwise stated
+© Crown copyright
