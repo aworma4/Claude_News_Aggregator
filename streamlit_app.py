@@ -157,7 +157,7 @@ elif selected_tab == "Sentiment":
     st.header("Sentiment")
     st.subheader(f"**This is the general news sentiment page, it gives the general sentiment, relating to the following topic {st.session_state.genre}!**")
 
-    query = f'Considering the following {URLS}. What is the general sentiment score (out of 10) of the proceeding article and why have you given it that score.'
+    query = f'Considering the following {URLS}. What is the general sentiment score (between -1 and 1 where -1 is maximally negative and 1 is maximally positive) of the proceeding article and why have you given it that score.'
     _, output = claude_query(initial_prompt = start_prompt, query = query)
     st.write(output)
 
