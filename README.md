@@ -3,10 +3,10 @@ A basic streamlit app that uses Claude AI API calls to submit engineered prompts
 The intention was to provide rapid information on various news topics as follows:
   * A webscraping layer that takes a sample of article from the web (this can be a balanced sample, this could be a weighted sample or it could simply be the top N results for that given topic)
   * Summarises + performs sentiment analysis on these articles.
-  * Generates typical tweets/press releases to this evetn
+  * Generates typical tweets/press releases to this event.
   * Pulls in relevant gov.uk articles and compares these to the news for differences in information
 
-The code itself is very basic and poorly written - it was written in about 5 hours. 
+The code itself is basic and has limited comments and structure - it was written in about 5 hours. 
 
 # Using the code 
 * Load in required packages from requirements.txt
