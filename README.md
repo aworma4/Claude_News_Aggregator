@@ -6,5 +6,5 @@ The intention was to provide rapid information on various news topics as follows
   * Generates typical tweets/press releases to this evetn
   * Pulls in relevant gov.uk articles and compares these to the news for differences in information
 
-The code itself is very basic and poorly written - it was written in about 5 hour. 
+The code itself is very basic and poorly written - it was written in about 5 hours. 
 
