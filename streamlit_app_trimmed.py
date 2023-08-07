@@ -31,11 +31,11 @@ st.markdown(tab_style, unsafe_allow_html=True)
 
 
 article_file = 'heat-wave/combined_8_uk_articles.txt'  # contains text of urls from artilces_Sampled
-articles_sampled = 'news_articles_URLS.txt'  #contains urls of webpages scraped
+articles_sampled = 'heat-wave/news_articles_URLS.txt'  #contains urls of webpages scraped
 
 gov_file = 'heat-wave/combined_gov_uk_Articles.txt'
 gov_file_most_relevance = 'heat-wave/article3.txt'
-gov_uk_urls = 'gov_uk_urls.txt'
+gov_uk_urls = 'heat-wave/gov_uk_urls.txt'
 
 with open(gov_uk_urls, encoding='utf-8') as f:
     URLS_GOVUK_list = f.read().strip()
